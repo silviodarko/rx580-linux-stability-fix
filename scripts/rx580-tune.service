@@ -1,0 +1,12 @@
+[Unit]
+Description=RX580 PowerPlay Stability Service
+After=multi-user.target
+ConditionPathExists=/usr/local/bin/tune_rx580.sh
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/tune_rx580.sh
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
