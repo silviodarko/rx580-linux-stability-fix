@@ -5,6 +5,11 @@
 **Licença:** MIT  
 
 Guia e scripts para **estabilizar a AMD Radeon RX 580 (especialmente a 2048SP)** em distribuições Linux.  
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Stable-success.svg)]()
+[![Made with ❤️ in Linux](https://img.shields.io/badge/Made%20with%20❤️-Linux-blue.svg)]()
+
 Este projeto nasceu da experiência prática e investigação técnica sobre desligamentos, instabilidades e bugs gráficos em ambientes com Wayland, GNOME e drivers `amdgpu`.
 
 ---
