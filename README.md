@@ -45,7 +45,7 @@ sudo systemctl enable --now rx580-tune.service
 
 ## 🧾 Créditos
 Desenvolvido por **Sílvio Henrique (Silvada)** 🦾  
-Com o apoio técnico do ChatGPT e a comunidade Linux BR.  
+Com o apoio técnico da comunidade Linux BR.  
 Se este projeto te ajudou, ⭐ deixa uma estrela no repositório!
 
 ---
